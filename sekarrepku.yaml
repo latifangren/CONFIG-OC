@@ -61,7 +61,7 @@ mode: rule
 log-level: silent
 allow-lan: true
 external-controller: 0.0.0.0:9090
-secret: reyre
+secret: sekarrepku
 bind-address: "*"
 external-ui: "/usr/share/openclash/dashboard"
 dns:
