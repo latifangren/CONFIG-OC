@@ -2,4 +2,5 @@
 CONFIG AUTO UPDATE
 CONFIG PISAH TRAFIC
 SUPPORT LOADBALACE
+Link tutor pemasangan:
 https://youtu.be/yNBFpYDSRAo
